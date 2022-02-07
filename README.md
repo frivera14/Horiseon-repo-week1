@@ -8,3 +8,5 @@ header and footer were not properly tagged in html
 Website title was added 
 
 Screenshots attatched in folder.
+
+https://frivera14.github.io/Horiseon-repo-week1/
