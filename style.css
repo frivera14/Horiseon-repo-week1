@@ -114,7 +114,9 @@ p {
 }
 
 .buttercup img {
-    max-height: 200px;
+    display: block;
+    margin: 20px;
+    min-width: 250px;
 }
 
 .buttercup h2 {
